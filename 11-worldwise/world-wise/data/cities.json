@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Covilha",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-12-29T06:52:46.753Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "-7.602539062500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Linnich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-12-29T06:52:46.753Z",
+      "notes": "",
+      "position": {
+        "lat": "50.98609893339354",
+        "lng": "6.328125000000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Belchite",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-29T07:09:25.682Z",
+      "notes": "",
+      "position": {
+        "lat": "41.343824581185714",
+        "lng": "-0.703125"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Frankfurt am Main",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-12-29T09:06:53.467Z",
+      "notes": "",
+      "position": {
+        "lat": "50.13466432216696",
+        "lng": "8.613281250000002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-12-29T09:19:07.003Z",
+      "notes": "",
+      "position": {
+        "lat": "55.677584411089526",
+        "lng": "37.705078125"
+      },
+      "id": 98443202
+    }
+  ]
+}
